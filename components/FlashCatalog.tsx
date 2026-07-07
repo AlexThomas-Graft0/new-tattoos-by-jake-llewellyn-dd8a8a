@@ -77,7 +77,7 @@ const flashItems: FlashItem[] = [
     status: 'Claimed',
     title: 'Lunar Cicada',
     visualDescription: 'A fine-line cicada with spread wings, featuring moon phase details along the spine.',
-    sizeEstimate: 'Approx. 4 x 4 inches',
+    sizeEstimate: 'Approx. 4. x 4 inches',
     priceEstimate: '$300 - $350',
     placementRecommendation: 'Lower neck, inner forearm, or ankle.',
     altText: 'Lunar cicada tattoo flash design, marked as claimed.',
@@ -452,7 +452,7 @@ export function FlashCatalog() {
                 </div>
               </div>
             </motion.div>
-          </>
+          </motion.div>
         )}
       </AnimatePresence>
     </section>
